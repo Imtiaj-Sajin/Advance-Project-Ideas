@@ -1,5 +1,5 @@
 # Advance & Realworld based Project Ideas
--------------------------------
+
 # CRM Projects
 
 CRM (Customer Relationship Management) systems offer a great avenue for practical, real-world projects. Here are some project ideas, ranging from basic to advanced, focusing on different aspects of CRM functionality:
@@ -26,6 +26,7 @@ CRM (Customer Relationship Management) systems offer a great avenue for practica
 *   **Features:** Ticket submission, ticket assignment, status tracking (e.g., Open, In Progress, Resolved, Closed), communication history, basic reporting (e.g., tickets by status, resolution time).
 *   **Tech:** Similar to above, potentially adding email integration.
 *   **Learning:** Customer support workflow, communication management, basic workflow automation.
+  
 
 ## Advanced CRM Projects (More challenging, incorporating advanced concepts)
 
@@ -56,3 +57,7 @@ CRM (Customer Relationship Management) systems offer a great avenue for practica
 *   **Features:** Customizable dashboards, data visualization, key performance indicator (KPI) tracking, data mining for insights.
 *   **Tech:** Requires knowledge of data warehousing, data visualization tools (e.g., Tableau, Power BI), and potentially data mining techniques.
 *   **Learning:** Business intelligence concepts, data warehousing, data visualization.
+
+
+# API based projects
+
