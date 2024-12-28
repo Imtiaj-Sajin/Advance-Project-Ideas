@@ -432,8 +432,9 @@ API-based projects are an excellent way to practice integration and modular appl
 ------------------
 ---------------
 ---
-# Full fledged projects
----
+<h1 align="center">Full fledged projects</h1>
+
+
 ---
 ---
 # 1. Social Media Automation and Lead Generation Suite
