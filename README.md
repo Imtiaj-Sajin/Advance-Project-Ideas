@@ -8,7 +8,7 @@ This repository is a curated collection of advanced project ideas spanning Block
 
 - [CRM Projects](#crm-projects)
 - [API based projects](#api-based-projects)
-- [API + Social Media + Data-Science/ML](#api-+-social-media-+-data-science/ml) 
+- [API + Social Media + Data-Science/ML](#api--social-media--data-scienceml)
 - [Blockchain-Based Projects](#blockchain-based-projects)
 - [Internet of Things (IoT)](#internet-of-things-iot)
 - [AI and Machine Learning](#ai-and-machine-learning)
