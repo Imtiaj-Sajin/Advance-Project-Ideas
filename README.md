@@ -16,7 +16,7 @@ This repository is a curated collection of advanced project ideas spanning Block
 - [Cybersecurity](#cybersecurity)
 - [Data Science and Big Data](#data-science-and-big-data)
 - [Automation Tools](#automation-tools)
-
+- [Full fledged projects](#full-fledged-projects)
 
 ---
 # CRM Projects
@@ -432,8 +432,11 @@ API-based projects are an excellent way to practice integration and modular appl
 ------------------
 ---------------
 ---
-Full fledged project: 1
-# Social Media Automation and Lead Generation Suite
+# Full fledged projects
+---
+---
+---
+# 1. Social Media Automation and Lead Generation Suite
 
 ## Concept:
 A multi-functional automation tool that integrates with social media platforms to handle repetitive tasks like posting, commenting, lead generation, and analytics. The tool can be used by businesses to optimize social media efforts and improve customer engagement.
