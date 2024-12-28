@@ -16,6 +16,7 @@ This repository is a curated collection of advanced project ideas spanning Block
 - [Cybersecurity](#cybersecurity)
 - [Data Science and Big Data](#data-science-and-big-data)
 - [Automation Tools](#automation-tools)
+- [Game Project Ideas](#game-projects)
 - [Full fledged projects](#full-fledged-projects)
 
 ---
