@@ -59,13 +59,13 @@ CRM (Customer Relationship Management) systems offer a great avenue for practica
 *   **Learning:** Business intelligence concepts, data warehousing, data visualization.
 
 
+
 # API based projects
 
-## API-Based Projects
 
 API-based projects are an excellent way to practice integration and modular application design. APIs provide a means to communicate between systems, allowing developers to leverage external services or expose their own. Below are some project ideas focusing on APIs:
 
-### Basic/Intermediate API Projects
+## Basic/Intermediate API Projects
 
 #### Weather App Using a Public Weather API:
 
@@ -73,3 +73,18 @@ API-based projects are an excellent way to practice integration and modular appl
 - **Features:** Current weather, 5-day forecast, temperature units (Celsius/Fahrenheit), location-based weather using geolocation.
 - **Tech:** Frontend (HTML/CSS/JavaScript), Backend (Node.js/Express or Flask/Django), OpenWeatherMap API or similar.
 - **Learning:** API consumption, working with JSON responses, handling HTTP requests.
+
+
+#### Currency Converter:
+
+- **Concept:** A tool to convert currencies using live exchange rates from an API.
+- **Features:** Select source and target currencies, convert based on user input, historical rate tracking.
+- **Tech:** Frontend or full-stack with free exchange rate APIs (e.g., Exchangeratesapi.io).
+- **Learning:** Working with API endpoints, input validation, presenting dynamic data.
+
+#### Movie Database Search App:
+
+- **Concept:** Allows users to search for movies, view details, and save favorites.
+- **Features:** Movie search, detailed view (cast, plot, ratings), save/view favorite movies.
+- **Tech:** Use APIs like OMDb or TMDb with frontend frameworks (React, Vue.js) or a backend system.
+- **Learning:** Pagination, query parameters, handling API keys securely.
