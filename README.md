@@ -61,3 +61,15 @@ CRM (Customer Relationship Management) systems offer a great avenue for practica
 
 # API based projects
 
+## API-Based Projects
+
+API-based projects are an excellent way to practice integration and modular application design. APIs provide a means to communicate between systems, allowing developers to leverage external services or expose their own. Below are some project ideas focusing on APIs:
+
+### Basic/Intermediate API Projects
+
+#### Weather App Using a Public Weather API:
+
+- **Concept:** Create an app that fetches and displays weather data for a given city.
+- **Features:** Current weather, 5-day forecast, temperature units (Celsius/Fahrenheit), location-based weather using geolocation.
+- **Tech:** Frontend (HTML/CSS/JavaScript), Backend (Node.js/Express or Flask/Django), OpenWeatherMap API or similar.
+- **Learning:** API consumption, working with JSON responses, handling HTTP requests.
